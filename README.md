@@ -1,5 +1,5 @@
 
-# XSUS十八线小机场官方地址(2026年月日更新)
+# XSUS十八线小机场官方地址(2026年7月30日更新)
 XSUS十八线小机场官网地址</br>
 最新地址：[xsus.cloud](https://xsus.cloud/register?code=PsG3i9xF)</br>
 官方地址：[xsus2.com](https://xsus2.com/)</br>
