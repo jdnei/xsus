@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی VPN کوچک XSUS (به‌روزرسانی 7 نوامبر 2026)
+# آدرس رسمی VPN کوچک XSUS (به‌روزرسانی 8 نوامبر 2026)
 وب‌سایت رسمی VPN کوچک XSUS<br>
 جدیدترین آدرس: [xsus.cloud](https://to.iix.im/xsus02)<br>
 آدرس رسمی: [xsus2.com](https://to.iix.im/xsus01)<br>
