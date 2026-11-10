@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# XSUS十八线小机场官方地址(2026年11月9日更新)
+# XSUS十八线小机场官方地址(2026年11月10日更新)
 XSUS十八线小机场官网地址</br>
 最新地址：[xsus.cloud](https://to.iix.im/xsus02)</br>
 官方地址：[xsus2.com](https://to.iix.im/xsus01)</br>
