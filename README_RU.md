@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт XSUS VPN (обновлено 13 ноября 2026)
+# Официальный сайт XSUS VPN (обновлено 14 ноября 2026)
 
 Официальный сайт небольшого VPN-сервиса XSUS<br>
 Новый адрес: [xsus.cloud](https://to.iix.im/xsus02)<br>
